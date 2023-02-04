@@ -33,7 +33,7 @@ viewProjectButton2.addEventListener("click", function() {
 const viewProjectButton3 = document.querySelector("#view-project-button3");
 
 viewProjectButton3.addEventListener("click", function() {
-  window.open("https://github.com/AdiShukla06/IOTA-3.0", "_blank");
+  window.open("https://github.com/AdiShukla06/PersonalPortfolioWebsite", "_blank");
 });
 
 
