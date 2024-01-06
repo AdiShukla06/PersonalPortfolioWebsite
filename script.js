@@ -18,9 +18,9 @@ document.querySelector('.hamburger').addEventListener("click", ()=>{
 })
 
 
-const viewProjectButton0 = document.querySelector("#view-project-button1");
+const viewProjectButton0 = document.querySelector("#view-project-button0");
 
-viewProjectButton1.addEventListener("click", function() {
+viewProjectButton0.addEventListener("click", function() {
   window.open("https://github.com/AdiShukla06/MindEase", "_blank");
 });
 
